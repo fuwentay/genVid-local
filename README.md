@@ -1,5 +1,8 @@
 # genVid - Generation of Videos through AI
 
+## Output
+https://github.com/fuwentay/genVid-local/assets/64541670/9abdcf48-a375-4a19-ae23-bdf3c427f5a2
+
 ## Updates 7 Dec 23
 - I started working on this after my summer internship before I went back to uni. Initially, I was planning to keep this repo private as I thought it could become some sort of a side-hustle. However, my instagram account was banned so I decided to make this public.
 - The webapp is not deployed but works on localhost. I would elaborate on this further below.
@@ -64,6 +67,3 @@ Instagram has a suite of bot-detection algorithms. So it is important to impleme
 
 ## Future Work
 In the future, videos would then be stored on an AWS S3 bucket, and displayed on a webapp as a library of user-generated videos.
-
-## Output
-https://github.com/fuwentay/genVid-local/assets/64541670/9abdcf48-a375-4a19-ae23-bdf3c427f5a2
