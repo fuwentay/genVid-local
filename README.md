@@ -1,7 +1,11 @@
 # genVid - Generation of Videos through AI
 
+## Updates 7 Dec 23
+- Initially I was planning to keep this repo private as I thought it could become some sort of a side-hustle. However, my instagram account was banned so I decided to make this public.
+- The webapp is not deployed but works on localhost. It is currently abandoned as I have other projects I would like to work on.
+
 ## Motivation
-Ever since the surge in popularity of GenAI, I noticed more social media content that is homogeneous and uniform, following a very standard format that is easy to generate. As such, I wanted to figure out how difficult is it to deploy your own "shit-posting" bot on Instagram that generates content systematically through the technologies we have available today.
+Ever since the surge in popularity of GenAI, I noticed more social media content that is homogeneous, following a very standard format that is easy to generate. As such, I wanted to figure out how difficult is it to deploy your own "shit-posting" bot on Instagram that generates content systematically through the technologies we have available today.
 
 ## Overview
 ### Building of Instagram Bot
