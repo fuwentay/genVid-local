@@ -1,7 +1,7 @@
 # genVid - Generation of Videos through AI
 
 ## Updates 7 Dec 23
-- Initially I was planning to keep this repo private as I thought it could become some sort of a side-hustle. However, my instagram account was banned so I decided to make this public.
+- I started working on this after my summer internship before I went back to uni. Initially, I was planning to keep this repo private as I thought it could become some sort of a side-hustle. However, my instagram account was banned so I decided to make this public.
 - The webapp is not deployed but works on localhost. It is currently abandoned as I have other projects I would like to work on.
 
 ## Motivation
