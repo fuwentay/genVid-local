@@ -66,3 +66,4 @@ Instagram has a suite of bot-detection algorithms. So it is important to impleme
 In the future, videos would then be stored on an AWS S3 bucket, and displayed on a webapp as a library of user-generated videos.
 
 ## Output
+https://github.com/fuwentay/genVid-local/assets/64541670/9abdcf48-a375-4a19-ae23-bdf3c427f5a2
