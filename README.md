@@ -2,7 +2,11 @@
 
 ## Updates 7 Dec 23
 - I started working on this after my summer internship before I went back to uni. Initially, I was planning to keep this repo private as I thought it could become some sort of a side-hustle. However, my instagram account was banned so I decided to make this public.
-- The webapp is not deployed but works on localhost. It is currently abandoned as I have other projects I would like to work on.
+- The webapp is not deployed but works on localhost. I would elaborate on this further below.
+- It is currently abandoned as I have other projects I would like to work on.
+
+## Issues
+The webapp is hosted on Heroku but is not fully functional as the API timeouts due to its long processing time (generation of video). The plan was to use Celery and Redis to offload the task as a background task but school was starting and I didn't have enough time to look into it. Regardless, the webapp is fully functional locally.
 
 ## Motivation
 Ever since the surge in popularity of GenAI, I noticed more social media content that is homogeneous, following a very standard format that is easy to generate. As such, I wanted to figure out how difficult is it to deploy your own "shit-posting" bot on Instagram that generates content systematically through the technologies we have available today.
@@ -60,3 +64,5 @@ Instagram has a suite of bot-detection algorithms. So it is important to impleme
 
 ## Future Work
 In the future, videos would then be stored on an AWS S3 bucket, and displayed on a webapp as a library of user-generated videos.
+
+## Output
