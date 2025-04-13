@@ -1,0 +1,14 @@
+## Pending ##
+- Deploy webapp
+- Take in user's API key
+- Images generated after the first need to take in context from previous ones. To ensure that the photos have a consistent theme and that characters are preserved.
+
+## Backlog ##
+Utils: add some try/excepts such that it does not break when file not found
+Storyline: not working too well. can use OpenAI to extract the main objects
+Speech: 
+- can clean up code. a lot of duplicate components due to this order lst (for both speech and video stitching)
+- use tiktok TTS
+Video:
+- overlay captions
+- buggy. the audio does not match up and the last sentence was missing.
